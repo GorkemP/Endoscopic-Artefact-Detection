@@ -9,7 +9,7 @@ Challenge: https://ead2020.grand-challenge.org/Home/
 Our method ranked **first** in the detection task.  
 First, it is better to read the paper: 
 
-[Endoscopic Artefact Detection with Ensemble of Deep Neural Networks](https://github.com/GorkemP/Endoscopic-Artefact-Detection/blob/master/Endoscopic%20Artefact%20Detection%20with%20Ensemble%20of%20Deep%20Neural%20Networks.pdf)
+[Endoscopic Artefact Detection with Ensemble of Deep Neural Networks](http://ceur-ws.org/Vol-2595/endoCV2020_paper_id_10.pdf)
 
 to understand general framework.
 
