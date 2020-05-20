@@ -6,7 +6,7 @@
 
 Challenge: https://ead2020.grand-challenge.org/Home/
 
-Our method ranked **first** in the detection task.  
+Our method ranked **first** in the artefact detection task.  
 First, it is better to read the paper: 
 
 [Endoscopic Artefact Detection with Ensemble of Deep Neural Networks](http://ceur-ws.org/Vol-2595/endoCV2020_paper_id_10.pdf)
