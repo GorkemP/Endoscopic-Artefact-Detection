@@ -6,7 +6,7 @@
 
 Challenge: https://ead2020.grand-challenge.org/Home/
 
-Our method ranked **first** in the artefact detection task.
+Our method ranked [**first**](https://ead2020.grand-challenge.org/evaluation/results/) in the artefact detection task.
 
 First, it is better to read the paper: 
 
