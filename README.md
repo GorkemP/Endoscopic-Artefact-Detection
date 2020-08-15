@@ -20,4 +20,14 @@ Object detection models (Faster RCNN, Cascade RCNN and RetinaNet) used in this w
 
 **Ensemble** and **Test Time Augmentation** is adapted from the [Ensemble Methods for Object Detection](https://github.com/ancasag/ensembleObjectDetection)
 
+For citation please use the following BibTeX entry
 
+```BibTeX
+@inproceedings{polat2020endoscopic,
+  title={Endoscopic Artefact Detection with Ensemble of Deep Neural Networks and False Positive Elimination.},
+  author={Polat, Gorkem and Sen, Deniz and Inci, Alperen and Temizel, Alptekin},
+  booktitle={EndoCV@ ISBI},
+  pages={8--12},
+  year={2020}
+}
+```
