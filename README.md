@@ -8,11 +8,9 @@ Challenge: https://ead2020.grand-challenge.org/Home/
 
 Our method ranked [**first**](https://ead2020.grand-challenge.org/evaluation/results/) in the artefact detection task.
 
-First, it is better to read the paper: 
+First, it is better to read the paper to understand general framework: 
 
 [Endoscopic Artefact Detection with Ensemble of Deep Neural Networks](http://ceur-ws.org/Vol-2595/endoCV2020_paper_id_10.pdf)
-
-to understand general framework.
 
 A Docker image with installed PyTorch and Detectron2 environments can be obtained [here](https://hub.docker.com/repository/docker/splendor90/detectron2)
 
