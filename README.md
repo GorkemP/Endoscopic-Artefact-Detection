@@ -4,9 +4,9 @@
   <img src="https://github.com/GorkemP/Endoscopic-Artefact-Detection/blob/master/images/EAD2020_frameOnly_01111.jpg">
 </p>
 
-Challenge: https://ead2020.grand-challenge.org/Home/
+### Challenge: https://ead2020.grand-challenge.org/Home/
 
-Our method ranked [**first**](https://ead2020.grand-challenge.org/evaluation/results/) in the artefact detection task.
+#### 🏆 Our method ranked [**first**](https://ead2020.grand-challenge.org/evaluation/results/) in the artefact detection task.
 
 First, it is better to read the paper to understand general framework: 
 
@@ -22,10 +22,17 @@ For citation please use the following BibTeX entry
 
 ```BibTeX
 @inproceedings{polat2020endoscopic,
-  title={Endoscopic Artefact Detection with Ensemble of Deep Neural Networks and False Positive Elimination.},
-  author={Polat, Gorkem and Sen, Deniz and Inci, Alperen and Temizel, Alptekin},
-  booktitle={EndoCV@ ISBI},
-  pages={8--12},
-  year={2020}
+author    = {Gorkem Polat and
+               Deniz Sen and
+               Alperen Inci and
+               Alptekin Temizel},
+  title     = {Endoscopic Artefact Detection with Ensemble of Deep Neural Networks
+               and False Positive Elimination},
+  booktitle = {Proceedings of the 2nd International Workshop and Challenge on Computer
+               Vision in Endoscopy, EndoCV@ISBI 2020, Iowa City, Iowa, USA, 3rd April
+               2020},
+  volume    = {2595},
+  pages     = {8--12},
+  year      = {2020}
 }
 ```
