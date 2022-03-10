@@ -22,16 +22,14 @@ For citation please use the following BibTeX entry
 
 ```BibTeX
 @inproceedings{polat2020endoscopic,
-author    = {Gorkem Polat and
-               Deniz Sen and
-               Alperen Inci and
-               Alptekin Temizel},
+author    = {Polat, Gorkem and Sen, Deniz and Inci, Alperen and Temizel, Alptekin},
   title     = {Endoscopic Artefact Detection with Ensemble of Deep Neural Networks
                and False Positive Elimination},
   booktitle = {Proceedings of the 2nd International Workshop and Challenge on Computer
                Vision in Endoscopy, EndoCV@ISBI 2020, Iowa City, Iowa, USA, 3rd April
                2020},
   volume    = {2595},
+  publisher = {CEUR-WS.org},
   pages     = {8--12},
   year      = {2020}
 }
